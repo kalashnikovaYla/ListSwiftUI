@@ -11,6 +11,7 @@
 		1872550D29E4909B006E868D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1872550C29E4909B006E868D /* ContentView.swift */; };
 		1872550F29E490A9006E868D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1872550E29E490A9006E868D /* Assets.xcassets */; };
 		1872551229E490A9006E868D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1872551129E490A9006E868D /* Preview Assets.xcassets */; };
+		18F4EC2229E59C8900577BCC /* ProductItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F4EC2129E59C8900577BCC /* ProductItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		1872550C29E4909B006E868D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1872550E29E490A9006E868D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1872551129E490A9006E868D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		18F4EC2129E59C8900577BCC /* ProductItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				1872550A29E4909B006E868D /* ListSwiftUIApp.swift */,
 				1872550C29E4909B006E868D /* ContentView.swift */,
+				18F4EC2129E59C8900577BCC /* ProductItemView.swift */,
 				1872550E29E490A9006E868D /* Assets.xcassets */,
 				1872551029E490A9006E868D /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18F4EC2229E59C8900577BCC /* ProductItemView.swift in Sources */,
 				1872550D29E4909B006E868D /* ContentView.swift in Sources */,
 				1872550B29E4909B006E868D /* ListSwiftUIApp.swift in Sources */,
 			);
